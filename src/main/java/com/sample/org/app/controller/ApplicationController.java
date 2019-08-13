@@ -55,7 +55,6 @@ public class ApplicationController {
 	@PostMapping("/people/update/{idPeople}")
 	public String saveUpdate(@RequestBody People people,@PathVariable int idPeople) throws Exception {
 		return peopleService.update(people,idPeople);
-	}
-	
+	}	
 	
 }
