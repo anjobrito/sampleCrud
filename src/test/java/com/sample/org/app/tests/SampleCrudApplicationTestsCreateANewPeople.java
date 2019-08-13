@@ -17,9 +17,7 @@ public class SampleCrudApplicationTestsCreateANewPeople {
 		
 	@Autowired
 	PeopleService peopleService;
-	People people ;
-	
-	
+	People people ;	
 
 	@Test
 	public void contextLoads() {				

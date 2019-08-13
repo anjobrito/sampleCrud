@@ -14,7 +14,4 @@ public enum RegState {
 	String state() {		
 		return state;
 	}
-	
-	
-
 }

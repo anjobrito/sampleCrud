@@ -20,8 +20,6 @@ public class SampleCrudApplicationTestsEditAndUpdateAPeople {
 	@Autowired
 	PeopleService peopleService;
 	People people ;
-	
-	
 
 	@Test
 	public void contextLoads() {				

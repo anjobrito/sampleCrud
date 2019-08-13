@@ -11,8 +11,7 @@ public class PeopleDto {
 	private RegState status;
 	
 	public PeopleDto() {
-		
-		
+				
 	}
 
 	public String getNome() {

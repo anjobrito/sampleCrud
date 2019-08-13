@@ -19,8 +19,6 @@ public class SampleCrudApplicationTestsDeleteAPeople {
 	@Autowired
 	PeopleService peopleService;
 	People people ;
-	
-	
 
 	@Test
 	public void contextLoads() {	

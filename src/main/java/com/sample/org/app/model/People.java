@@ -26,8 +26,7 @@ public class People {
 	private String endereco;
 	private RegState status;
 	
-	public People() {
-		
+	public People() {		
 	}
 	
 	
@@ -94,8 +93,6 @@ public class People {
 		
 		
 	}
-	
-	
 
 
 	public int getIdpeople() {
